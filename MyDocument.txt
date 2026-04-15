@@ -1,2 +1,8 @@
 hi this is M Sivaraj
+<<<<<<< HEAD
 This is my first branch edit
+=======
+this is a edit from remote origin 
+>>>>>>> e6367529ab4df7fca96a45db7b69fba37d0c1883
+
+This change has been done in local origin 
